@@ -3,7 +3,6 @@ pandas          ==         0.25.3
 streamlit       ==         0.75.0
 torch           ==         1.7.0 
 torchvision     ==         0.8.2
-opencv          ==         3.1
 Pillow          ==         7.0.0
 dill            ==         0.3.3
 opencv-python   ==         4.1.2.30
