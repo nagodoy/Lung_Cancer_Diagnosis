@@ -3,7 +3,7 @@ pandas          ==         0.25.3
 streamlit       ==         0.75.0
 --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==1.7.1+cpu
-torchvision==0.8.2
+torchvision==0.8.2+cpu
 Pillow          ==         7.0.0
 dill            ==         0.3.3
 opencv-python-headless==4.2.0.32
