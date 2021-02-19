@@ -1,7 +1,7 @@
 numpy           ==         1.19.2
 pandas          ==         0.25.3
 streamlit       ==         0.75.0
-https://download.pytorch.org/whl/cpu/torch-1.7.1%2Bcpu-cp36-cp36m-win_amd64.whl 
+https://download.pytorch.org/whl/cpu/torch-1.7.1%2Bcpu-cp36-cp36m-win_amd64.whl
 https://download.pytorch.org/whl/cpu/torchvision-0.8.1%2Bcpu-cp36-cp36m-win_amd64.whl
 Pillow          ==         7.0.0
 dill            ==         0.3.3
